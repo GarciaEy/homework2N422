@@ -1,0 +1,12 @@
+[
+  {"title": "Write project proposal", "completed": true},
+  {"title": "Set up Postgres database", "completed": true},
+  {"title": "Design tasks table schema", "completed": false},
+  {"title": "Build GET /tasks route", "completed": false},
+  {"title": "Build POST /tasks route", "completed": false},
+  {"title": "Add PUT /tasks/:id route", "completed": false},
+  {"title": "Add DELETE /tasks/:id route", "completed": false},
+  {"title": "Write seed script", "completed": true},
+  {"title": "Deploy API to Render", "completed": false},
+  {"title": "Test all routes with Postman", "completed": false}
+]

@@ -1,6 +1,10 @@
 {
+  "type": "module",
   "dependencies": {
+    "@prisma/adapter-pg": "^7.10.0",
     "@prisma/client": "^6.19.3",
+    "express": "^5.2.1",
+    "pg": "^8.23.0",
     "prisma": "^6.19.3"
   }
 }
